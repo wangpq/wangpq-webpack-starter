@@ -1,12 +1,12 @@
-# webpack-starter
+ï»¿# webpack-starter
 
-ÕâÊÇÒ»¸ö»ù´¡µÄwebpackÈëÃÅÊ¾Àı
+ä¸€ä¸ªåŸºç¡€çš„webpackå…¥é—¨ç¤ºä¾‹
 
-Õâ¸öÊ¾ÀıÏòÎÒÃÇÕ¹Ê¾ÁËÈçºÎÊ¹ÓÃsass, es6, »òÕßµÚÈı·½¿â(jQuery, moment .etc), »òÕßÊ¹ÓÃjquery²å¼şÈÃwebpackÏîÄ¿ÅÜÆğÀ´¡£
+è¿™ä¸ªç¤ºä¾‹å±•ç¤ºäº†å¦‚ä½•ä½¿ç”¨sass, es6,ç¬¬ä¸‰æ–¹åº“(jQuery, moment .etc), æˆ–è€…jqueryæ’ä»¶è®©webpacké¡¹ç›®è·‘èµ·æ¥ã€‚
 
-ÔõÑùÔËĞĞÊ¾Àı?
-**ÏÂÔØÒÀÀµµ½±¾µØ**
-we are testing library using npm(jquery, moment) and bower (lodash).
+æ€æ ·è¿è¡Œç¤ºä¾‹?
+
+**ä¸‹è½½ä¾èµ–åˆ°æœ¬åœ°**
 ```bash
 npm install && bower install
 ```
@@ -15,18 +15,18 @@ npm install && bower install
 ```bash
 npm run start
 ```
-then open your http://localhost:8080 see how the magic happens.
+ç„¶åæ‰“å¼€æµè§ˆå™¨ï¼Œè¾“å…¥ http://localhost:8080 è§è¯å¥‡è¿¹çš„å‘ç”Ÿå§ã€‚
 
 
-**²¿Êğ**
+**éƒ¨ç½²**
 
 ```bash
 npm run build
 ```
-È»ºóÄã»á·¢ÏÖÒ»¸ö½ĞbuildµÄĞÂÎÄ¼ş¼ĞĞÎ³É
+ç„¶åå°†å½¢æˆä¸€ä¸ªå«buildçš„æ–°æ–‡ä»¶å¤¹
 
 
-**TODO: ²âÊÔ**
+**æµ‹è¯•**
 
 ```bash
 npm run test
