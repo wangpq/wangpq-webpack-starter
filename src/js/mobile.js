@@ -8,5 +8,5 @@ $(document).ready(function() {
   document.body.appendChild(app);
   $('h1').greenify();
 
-  $('body').append('<p><a href="/index.html" target="_self">跳转到index</a></p>');
+  $('body').append('<p><a href="/" target="_self">跳转到index</a></p>');
 });
