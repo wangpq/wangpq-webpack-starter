@@ -11,7 +11,7 @@
 npm install && bower install
 ```
 
-**run the dev server**
+**在本地服务器运行**
 ```bash
 npm run start
 ```
