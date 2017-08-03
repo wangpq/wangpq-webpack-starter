@@ -4,9 +4,10 @@
 
 var path = require('path') 
   , webpack = require('webpack')
-  , HtmlwebpackPlugin = require('html-webpack-plugin')
-  , ExtractTextPlugin = require('extract-text-webpack-plugin');
+  , HtmlwebpackPlugin = require('html-webpack-plugin')  //webpack html模板插件
+  , ExtractTextPlugin = require('extract-text-webpack-plugin');  //css提取插件
 
+//var CleanPlugin = require('clean-webpack-plugin') //webpack插件，用于清除目录文件
 //var prod = process.env.NODE_ENV === 'production' ? true : false;
 
 //定义一些常用文件夹的路径
